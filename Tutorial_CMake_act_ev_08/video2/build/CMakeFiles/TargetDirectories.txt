@@ -1,0 +1,6 @@
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video2/build/CMakeFiles/hello.dir
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video2/build/CMakeFiles/edit_cache.dir
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video2/build/CMakeFiles/rebuild_cache.dir
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video2/build/my_library/CMakeFiles/my_library.dir
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video2/build/my_library/CMakeFiles/edit_cache.dir
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video2/build/my_library/CMakeFiles/rebuild_cache.dir

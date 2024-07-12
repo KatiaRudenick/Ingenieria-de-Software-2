@@ -1,0 +1,3 @@
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video4/build/CMakeFiles/12_TutCMake4.dir
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video4/build/CMakeFiles/edit_cache.dir
+D:/ISFT151/Ingenieria de Software 2/Tutorial CMake_act_ev_08/video4/build/CMakeFiles/rebuild_cache.dir
